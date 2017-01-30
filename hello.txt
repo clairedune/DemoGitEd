@@ -3,3 +3,6 @@
 
 Create a first repository
 >> git init
+
+initialize an empty directory (without working directory)
+git init --bare 
