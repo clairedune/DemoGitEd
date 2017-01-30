@@ -1,0 +1,42 @@
+Die 20 meist benutzten git Befehlen
+------------------------------------------------
+Initialisierung des git Verzeichnis
+
+git init
+------------------------------------------------
+Initialisierung des git Verzeichnis ohne Arbeitsverzeichnis
+
+git init --bare
+------------------------------------------------
+Der Evolution Status anzeigen
+
+git status
+------------------------------------------------
+Der Projekthintergrund anzeigen
+
+git log
+------------------------------------------------
+Nur die erste Linie vom Projekthintergrund anzeigen
+
+git log --oneline
+------------------------------------------------
+Eine visuelle Unterstutzung des Projektbaums anzeigen
+
+gitk
+------------------------------------------------
+Die Dateien zur Pufferzone hinfugen
+
+git add .
+------------------------------------------------
+Eine Version festlegen
+
+git commit -m "Versionname"
+------------------------------------------------
+Eine Datei aus der Pufferzone nehmen
+
+git checkout -- Dateiname
+------------------------------------------------
+Eine Datei aus der Index nehmen
+
+git rm Dateiname
+------------------------------------------------
