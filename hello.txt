@@ -4,6 +4,9 @@
 Create a first repository
 >> git init
 
+Add all files to the staging zone
+>> git add .
+
 Define your user-name
 >>git config --global user.name <name>
 
