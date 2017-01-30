@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Guten Tag 
 Zusammen/jeder
+=======
+bonjour
+tout le monde
+Oioi
+>>>>>>> 4dc3ae293941bde80cb0cdeef418b3bbee58a7e3
