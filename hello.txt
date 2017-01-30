@@ -22,3 +22,20 @@ Define your email
 initialize an empty directory (without working directory)
 >>git init --bare 
 
+Display states of physical repertories and staging zone. Non information on history.
+>> git status
+
+Display history of the project
+>> git log
+
+Display visual tree of the project
+>> gitk
+
+Commit
+>> git commit -m "My commit name"
+
+
+
+
+
+
