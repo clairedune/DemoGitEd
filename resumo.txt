@@ -1,0 +1,4 @@
+Os 20 comandos de Git mais útis
+
+1. Inicialização
+git init
