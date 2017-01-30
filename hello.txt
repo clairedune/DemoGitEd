@@ -1,0 +1,15 @@
+20 usefull git commands
+
+
+Create a first repository
+>> git init
+
+Define your user-name
+>>git config --global user.name <name>
+
+Define your email
+>>git config --global user.email <email>
+
+initialize an empty directory (without working directory)
+>>git init --bare 
+
