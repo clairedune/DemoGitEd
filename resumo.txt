@@ -1,4 +1,17 @@
 Os 20 comandos de Git mais útis
 
 1. Inicialização
-git init
+	1.a Crie uma nova pasta no local desejado:
+		mkdir nome-da-pasta
+	1.b Abra-a
+		cd nome-da-pasta
+	1.c Coloque/Crie dentro da pasta os arquivos que você deseja versionar. Por exemplo, crie um arquivo de texto:
+		echo "Este é o meu texto" >> exemplo.txt
+	1.d Em seguida, inicialize o seu repositório Git:
+		git init
+	1.e Configure o seu repositório Git:
+		git congfig --global user.name "Seu nome"
+		git config -- global user.email "seu email"
+
+2. Trabalhando em um repositório
+
