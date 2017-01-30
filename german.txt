@@ -1,0 +1,21 @@
+Die 20 meist benutzten git Befehlen
+------------------------------------------------
+Initialisierung des git Verzeichnis
+
+git init
+------------------------------------------------
+Initialisierung des git Verzeichnis ohne Arbeitsverzeichnis
+
+git init --bare
+------------------------------------------------
+Der Evolution Status anzeigen
+
+git status
+------------------------------------------------
+Der Projekthintergrund anzeigen
+
+git log
+------------------------------------------------
+Eine visuelle Unterstutzung des Projektbaums anzeigen
+
+gitk
