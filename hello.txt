@@ -34,6 +34,9 @@ Display visual tree of the project
 Commit
 >> git commit -m "My commit name"
 
+Change the name of the last commit
+>> git commit --amend
+
 
 
 
