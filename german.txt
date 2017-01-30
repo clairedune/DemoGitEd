@@ -55,3 +55,11 @@ git revert <AnderungCode>
 Alle Anderungen bevor diese stornieren
 
 git reset <AnderungCode>
+------------------------------------------------
+Das soll man nie machen !
+
+git reset --hard <AnderungCode>
+------------------------------------------------
+Ein Link mit Github oder ein andere Verzeichnis bauen
+
+git remote add origin <URL>
