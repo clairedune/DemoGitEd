@@ -9,3 +9,7 @@ Define your user-name
 
 Define your email
 >>git config --global user.email <email>
+
+initialize an empty directory (without working directory)
+>>git init --bare 
+
