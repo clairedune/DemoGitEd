@@ -1,4 +1,8 @@
+________________________________________________
+
 Die 20 meist benutzten git Befehlen
+________________________________________________
+
 ------------------------------------------------
 Initialisierung des git Verzeichnis
 
@@ -30,13 +34,24 @@ git add .
 ------------------------------------------------
 Eine Version festlegen
 
-git commit -m "Versionname"
+git commit -m "<Versionname>"
 ------------------------------------------------
 Eine Datei aus der Pufferzone nehmen
 
-git checkout -- Dateiname
+git checkout -- <Dateiname>
 ------------------------------------------------
 Eine Datei aus der Index nehmen
 
-git rm Dateiname
+git rm <Dateiname>
 ------------------------------------------------
+Eine altere Version zuruckholen
+
+git checkout <VersionCode>
+------------------------------------------------
+Eine Anderung stornieren
+
+git revert <AnderungCode>
+------------------------------------------------
+Alle Anderungen bevor diese stornieren
+
+git reset <AnderungCode>
