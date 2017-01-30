@@ -1,5 +1,4 @@
 Os 20 comandos de Git mais útis
-
 1. Inicialização
 	1.a Crie uma nova pasta no local desejado:
 		mkdir nome-da-pasta
